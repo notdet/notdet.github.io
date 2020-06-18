@@ -2,7 +2,7 @@
 Demo page
 
 PS X:\x\notdet.github.io> git commit -m "init page"
-[master aae7c2d] init page
+[master x] init page
  5 files changed, 182 insertions(+)
  create mode 100644 about.html
  create mode 100644 img/classic-vegan-burgers-6-819x1024.webp
